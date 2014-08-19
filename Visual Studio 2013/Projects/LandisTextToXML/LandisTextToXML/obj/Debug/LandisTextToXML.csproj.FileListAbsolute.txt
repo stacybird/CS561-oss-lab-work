@@ -1,0 +1,6 @@
+c:\users\stacy\documents\visual studio 2013\Projects\LandisTextToXML\LandisTextToXML\bin\Debug\LandisTextToXML.exe.config
+c:\users\stacy\documents\visual studio 2013\Projects\LandisTextToXML\LandisTextToXML\bin\Debug\LandisTextToXML.exe
+c:\users\stacy\documents\visual studio 2013\Projects\LandisTextToXML\LandisTextToXML\bin\Debug\LandisTextToXML.pdb
+c:\users\stacy\documents\visual studio 2013\Projects\LandisTextToXML\LandisTextToXML\obj\Debug\LandisTextToXML.csprojResolveAssemblyReference.cache
+c:\users\stacy\documents\visual studio 2013\Projects\LandisTextToXML\LandisTextToXML\obj\Debug\LandisTextToXML.exe
+c:\users\stacy\documents\visual studio 2013\Projects\LandisTextToXML\LandisTextToXML\obj\Debug\LandisTextToXML.pdb
